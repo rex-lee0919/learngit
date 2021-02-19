@@ -3,4 +3,5 @@ this is a new file. changed .
 third changed!
 6666
 Creating a new branch is quick AND simple.
-7777 & 8889
+<<<<<<< HEAD
+7777 & And 8889 8888
